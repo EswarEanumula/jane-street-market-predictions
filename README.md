@@ -18,3 +18,7 @@ Note that during the second (forecasting) phase of the competition, the notebook
     example_test.csv - a mock test set which represents the structure of the unseen test set. You will not be directly using the test set or sample submission in this competition, as the time-series API will get/set the test set and predictions.
     example_sample_submission.csv - a mock sample submission file in the correct format
     features.csv - metadata pertaining to the anonymized features
+
+# Output
+
+![](https://github.com/EswarEanumula/jane-street-market-predictions/blob/main/img/download.png)
